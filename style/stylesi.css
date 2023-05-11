@@ -1,0 +1,102 @@
+html{
+    width: 1330px;
+    height: 1000px;
+}
+body{
+    background-color: whitesmoke;
+}
+header{
+    background-color: black;
+    vertical-align: middle;
+    color: white;
+    padding: 0px;
+    height: 100px;
+    width: 1349px;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+#lsite{
+    width: 100px;
+    height: 60px;
+    margin-top: 15px;
+}
+#nsite{
+    width: 300px;
+    margin-top: -55px;
+    margin-left: 110px;
+}
+#cabe{
+    width: 600px;
+    margin-top: -58px;
+    margin-left: 160px;
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+#lcont{
+    text-align: center;
+    background-color: whitesmoke;
+    height: 20px;
+    width: 60px;
+    border-radius: 5px;
+    margin-left: 1270px;
+    margin-top: -46px;
+}
+hr{
+    background-color: green;
+    height: 4px;
+    width: 1347px;
+    margin-top: -6px;
+    margin-left: -8px;
+}
+#adp{
+    height: 200px;
+    width: 700px;
+    margin-top: 50px;
+}
+#txtesp{
+    margin-left: 200px;
+}
+#imglb{
+    height: 250px;
+    width: 450px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+}
+#txtlip{
+    height: 100px;
+    width: 100px;
+    margin-bottom: -100px;
+    margin-left: 700px;
+}
+#imglh{
+    height: 250px;
+    width: 450px;
+    margin-top: 20px;
+    margin-left: 700px;
+}
+#txtsil{
+    height: 100px;
+    width: 200px;
+    margin-top: -260px;
+    margin-left: 200px;
+}
+section{
+    font: inherit 16;
+    text-align: center;
+    background-color: gray;
+    height: 170px;
+    width: 220px;
+    margin: auto;
+    margin-top: 200px;
+}
+footer{
+    background-color: black;
+    height: 100px;
+    width: 1349px;
+    margin-top: 1310px;
+    margin-left: -8px;
+}
+
+

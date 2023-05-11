@@ -1,0 +1,47 @@
+header{
+    background-color: black;
+    vertical-align: middle;
+    color: white;
+    padding: 0px;
+    height: 100px;
+    width: 1349px;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+hr{
+    background-color: green;
+    height: 4px;
+    width: 1347px;
+    margin-top: -6px;
+    margin-left: -8px;
+}
+#lsite{
+    width: 100px;
+    height: 60px;
+    margin-top: 15px;
+}
+#nsite{
+    width: 300px;
+    margin-top: -55px;
+    margin-left: 110px;
+}
+a:link{
+    text-decoration: none;
+    color: black;
+}
+#lhome{
+    text-align: center;
+    background-color: whitesmoke;
+    height: 20px;
+    width: 60px;
+    border-radius: 5px;
+    margin-left: 1270px;
+    margin-top: -47px
+}
+footer{
+    background-color: black;
+    height: 100px;
+    width: 1349px;
+    margin-top: 1310px;
+    margin-left: -8px;
+}

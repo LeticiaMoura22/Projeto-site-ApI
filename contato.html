@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+    <link rel="stylesheet" href="style/stylecont.css">
+</head>
+<body>
+    <header>
+        <img src="../../../Proj_site AP/img/logosite.png" alt="Logo do site" id="lsite">
+        <h1 id="nsite">Vidrados no futebol</h1>
+        <div id="lhome"><a href="index.html" target="self">Home</a></div>
+    </header>
+    <center><h1 id="cabe">Contato</h1></center>
+    <section>
+        <form action="" method="get">
+            <label for="nome">Nome</label><br>
+            <center>
+                <input type="text" name="usuario" id="nome" value="" maxlength="50" size="62" placeholder="Insira nome completo" required>
+            </center></br> 
+            <label for="email">E-mail</label><br>
+            <center><input type="email" name="email" id="email" maxlength="50" size="62" required></center><br>
+            <textarea name="txta" placeholder="Escreva sua mensagem" cols="50" rows="5" id="txta"></textarea><br>
+            <label for="aceite" id="noti">Quero ser notificado</label><br>
+            <select name="aceite">
+                <option value="s">Sim</option>
+                <option value="n">Não</option>
+            </select>
+            <br>
+            <input type="checkbox" id="cbox" name="recEmails" value="1" checked>
+            <label for="recEmails" id="termos">Li e aceito os <b>Termos de Uso</b> e <b>Política de Privacidade</b></label>
+            <center><input type="submit" id="envio" value="Enviar"></center>
+        </form>
+    </section>
+    <h2 id="rede">Acompanhe nossas redes sociais</h2>
+</body>
+</html>

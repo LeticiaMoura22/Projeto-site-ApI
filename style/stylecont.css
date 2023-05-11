@@ -1,0 +1,94 @@
+body{
+    background-color: black;
+}
+#cabe{
+    color: white;
+    margin-top: -20px;
+}
+header{
+    height: 100px;
+    width: 1349px;
+    margin-top: -8px;
+    margin-left: -8px;
+}
+#lsite{
+    width: 100px;
+    height: 60px;
+    margin-top: 15px;
+}
+#nsite{
+    color: white;
+    margin-top: -55px;
+    margin-left: 110px;
+}
+a:link{
+    text-decoration: none;
+    color:black; 
+}
+#lhome{
+    text-align: center;
+    background-color: whitesmoke;
+    height: 20px;
+    width: 60px;
+    border-radius: 5px;
+    margin-left: 1270px;
+    margin-top: -47px
+}
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    height: 410px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.39); /*Sombra*/
+}
+form{
+    margin-top: 20px;
+}
+label{
+    margin-left: 20px;
+}
+input{
+    font-size: 16px;
+    text-indent: 5px;
+    height: 25px;
+    width: 465px;
+    border-radius: 10px;
+}
+#txta{
+    font-size: 16px;
+    text-indent: 5px;
+    width: 465px; 
+    margin-left: 18px;
+    border-radius: 10px;
+}
+#cbox{
+    height: 15px;
+    margin-top: 20px;
+    margin-left: -200px;
+}
+select{
+    margin-left: 20px; 
+    margin-top: 7px;
+    border-radius: 10px; 
+}
+#termos{
+    font-size: medium;
+    margin-left: -220px;
+}
+#noti{
+    font-size: medium;
+}
+#envio{
+    margin-top: 20px;
+    border-radius: 10px;
+    height: 27px;
+    width: 300px;
+}
+#rede{
+    color: white;
+    text-align: center;
+}
